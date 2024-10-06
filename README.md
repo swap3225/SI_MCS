@@ -22,7 +22,7 @@ Ensure you have Python 3.12 installed on your system. You can download it from [
 git clone https://github.com/swap3225/SI_MCS.git
 
 ```
-### 2. Clone the repository
+### 2. Install the dependancies
 
 ```bash
 pip install -r requirements.txt
