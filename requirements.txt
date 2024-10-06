@@ -1,0 +1,10 @@
+pandas==2.1.1
+numpy==1.26.0
+matplotlib==3.8.0
+scipy==1.11.3
+plotly==5.17.0
+quandl==3.7.0
+yfinance==0.2.31
+pylab==0.2.0
+seaborn==0.12.2
+pandas-datareader==0.10.0
